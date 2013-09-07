@@ -8,7 +8,7 @@ Testamos em uma instalação local e funcionou tudo certo. Qualquer problema agr
 
 Viva ao livre!
 
-## Executando
+## Executando 
 
 Para executar o patch basta rodar os seguintes comandos no diretório raiz da instalação do Joomla!
 ``
