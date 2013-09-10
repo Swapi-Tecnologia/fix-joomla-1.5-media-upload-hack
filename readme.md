@@ -1,4 +1,4 @@
-# Corrigindo Joomla 1.5 Media Menager Upload de arquivo
+# Corrigindo Joomla 1.5 Media Menager Upload de arquivo 
 
 Como a comunidade não dá mais suporte ao Joomla! 1.5, mas ainda existem muitos usuários do mesmo e esse exploit é muito perigoso, resolvemos criar um patch para salvar a vida de quem ainda usa a versão antiga, para ter tempo de migrar para novas versões.
 
